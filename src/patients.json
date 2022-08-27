@@ -1,0 +1,65 @@
+[
+  {
+    "_id": "630689774557ad1764f0ab36",
+    "age": 39,
+    "name": "Martina Shaw",
+    "gender": "female",
+    "action":"Send patient to serology",
+    "Ddagnosis":"Psoriatic Arthritis",
+    "probability":"Low"
+  },
+  {
+    "_id": "630689773d4da7717aaf456c",
+    "age": 22,
+    "name": "Chen Patel",
+    "gender": "male",
+    "action":"Refer to a specialist",
+    "Ddagnosis":"Rheumatoid Arthritis",
+    "probability":"High"
+  },
+  {
+    "_id": "630689774d1b3830ffbff32f",
+    "age": 30,
+    "name": "Lancaster Harvey",
+    "gender": "male",
+    "action":"Contact Patient",
+    "Ddagnosis":"Multiple Sclerosis",
+    "probability":"Medium"
+  },
+  {
+    "_id": "63068977a34b7c94e6c8575e",
+    "age": 37,
+    "name": "Rivera Brooks",
+    "gender": "male",
+    "action":"Contact Patient",
+    "Ddagnosis":"Lupus",
+    "probability":"Medium"
+  },
+  {
+    "_id": "6306897765e21d3eaef0ca8e",
+    "age": 22,
+    "name": "Hensley Conley",
+    "gender": "male",
+    "action":"Send patient to serology",
+    "Ddagnosis":"Celiac",
+    "probability":"Low"
+  },
+  {
+    "_id": "630689770c132007cc172cd6",
+    "age": 37,
+    "name": "Evelyn Mccarthy",
+    "gender": "female",
+    "action":"Send patient to serology",
+    "Ddagnosis":"Ulcerative Colitis",
+    "probability":"High"
+  },
+  {
+    "_id": "63068977c8a000713aaf98aa",
+    "age": 33,
+    "name": "Cruz Garza",
+    "gender": "male",
+    "action":"Refer to a specialist",
+    "Ddagnosis":"Crohn’s",
+    "probability":"Medium"
+  }
+]
